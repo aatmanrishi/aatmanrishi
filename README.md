@@ -1,8 +1,8 @@
-![logo](https://i.pinimg.com/originals/db/ab/2f/dbab2f3be06e768e77a85f175e577955.gif)
+![logo](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
 <h3 align="center">A passionate Website Developer and Web designer.😎</h3>
 
-<img align="right" alt="coding" widht=400px src="https://th.bing.com/th/id/R.3bd139022dfbf3b91ec200318cc13148?rik=CzYCF2b3Vruokw&riu=http%3a%2f%2forig02.deviantart.net%2fcd22%2ff%2f2014%2f222%2fe%2fb%2fzankyou_by_setonami-d7uio06.gif&ehk=iKmw7ud5jL590vLzLb6qWwtn30QxAD7IOzL4%2fARGsKk%3d&risl=1&pid=ImgRaw&r=0">
+<!-- <img align="right" alt="coding" widht=400px src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatmanrishi&label=Profile%20views&color=0e75b6&style=flat" alt="aatmanrishi" /> </p>
 
