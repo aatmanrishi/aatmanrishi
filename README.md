@@ -10,9 +10,11 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rishabhshukla.netlify.app](https://portfolio-rishabhshukla.netlify.app)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,NodeJs,ExpressJs,MongoDb**
+- 💬 Ask me about **HTML, CSS, JavaScript, NodeJs, ExpressJs, MongoDb**
 
-- 📫 How to reach me **itzrrrrishabh@gmail.com**
+- 📫 Email :  **itzrrrrishabh@gmail.com**
+
+- 📫 Mobile number :  **+91-9653051157**
 
 - ⚡ Fun fact **I'm a learner and Explorer**
 
