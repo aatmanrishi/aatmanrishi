@@ -1,12 +1,12 @@
 ![logo](https://i.pinimg.com/originals/16/69/e5/1669e57761ccc67fa5e31a09a54764d0.gif)
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
-<h3 align="center">A passionate Website Developer and Web designer.😎</h3>
+<h3 align="center">Passsionate about Data Analytics and DataScience.😎</h3>
 
 <!-- <img align="right" alt="coding" widht=400px src="https://store.outsourcingpundit.com/wp-content/uploads/2019/01/focus-animation.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatmanrishi&label=Profile%20views&color=0e75b6&style=flat" alt="aatmanrishi" /> </p>
 
-- 🌱 I’m going to start Learning **Data Structure and Algorithm**
+- 🌱  **Currently Focussed on Learning new skills....**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rishabhshukla.netlify.app](https://portfolio-rishabhshukla.netlify.app)
 
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rishabh shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_jeeva_rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_jeeva_rishi" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/itz_jeeva_rishi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_jeeva_rishi" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
