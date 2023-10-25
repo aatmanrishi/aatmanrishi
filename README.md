@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
-<h3 align="center">Passionate about Data analysis and Data Science .</h3>
+<h3 align="center">Passionate about Analytics and Data.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aatmanrishi](https://github.com/aatmanrishi)
 
