@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishabh Shukla</h1>
-<h3 align="center">Passionate about Analytics and Data.</h3>
+<h3 align="center">Learner and Explorer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/aatmanrishi](https://github.com/aatmanrishi)
 
-- 💬 Ask me about **Python , Excel , Statistics , Probability, Power BI Microsoft Excel and also Mern Stack .**
+- 💬 Ask me about **Flutter , Dart , OOP'S , Nodejs, Power BI and Python .**
 
 - 📫 How to reach me **itzrrrrishabh@gmail.com**
 
