@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">...📚 I'm currently learning Flutter right now.<br>🎯 Goals: To become free of all the loads.<br>🎲 Fun fact: I like to watch anime</p>
+<p align="left">...📚 Now a day playing with flutter.<br>🎯 Goals: To become free of all the loads.<br>🎲 Fun fact: I like to watch anime</p>
 
 ###
 
